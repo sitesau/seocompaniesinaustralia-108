@@ -1,0 +1,22 @@
+{
+  "wheel_id": 412,
+  "structure": "umbrella",
+  "slug": "seocompaniesinaustralia-108",
+  "project": "seo-companies-australia-budget-tips-b9938e084a63a1bd8757963bd70",
+  "parent_t1_ref": "seocompaniesinaustralia-155",
+  "node_role": "feeder",
+  "money_target": "seocompaniesinaustralia.com.au",
+  "primary_kw": "seo companies australia budget tips",
+  "intended_url": "http://seo-companies-australia-budget-tips-b9938e084a63a1bd8757963bd70.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "92becdf05e03e5d4",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/seo-companies-australia-0d6f39e10a3c53c349d5692a7be0a900cb7d/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
